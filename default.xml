@@ -19,7 +19,7 @@
            review="review.cyanogenmod.org" />
            
   <remote  name="pa-flo"
-           fetch="git://github.com/PA-flo/" />
+           fetch="git@github.com:PA-flo/" />
 
   <default revision="refs/tags/android-4.3_r2.2"
            remote="aosp"
