@@ -21,7 +21,7 @@
   <remote  name="pa-flo"
            fetch="git://github.com/PA-flo/" />
 
-  <default revision="refs/tags/android-4.3_r3"
+  <default revision="refs/tags/android-4.3_r3.1"
            remote="aosp"
            sync-c="true"
            sync-f="true"
