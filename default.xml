@@ -31,6 +31,8 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   
+  <project path="manifest" name="manifest" remote="moddedpa" revision="jb43" />
+  
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="bionic" name="android_bionic" remote="moddedpa" revision="jb43" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
