@@ -177,7 +177,7 @@
   <project path="external/opencv" name="platform/external/opencv" />
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="android_external_openssh" remote="moddedpa" revision="linaro" />
-  <project path="external/openssl" name="android_external/openssl" remote="moddedpa" revision="linaro" />
+  <project path="external/openssl" name="android_external_openssl" remote="moddedpa" revision="linaro" />
   <project path="external/oprofile" name="android_external_oprofile" remote="moddedpa" revision="linaro" />
   <project path="external/ping" name="android_external_ping" remote="moddedpa" revision="linaro" />
   <project path="external/ping6" name="android_external_ping6" remote="moddedpa" revision="linaro" />
