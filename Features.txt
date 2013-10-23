@@ -1,0 +1,47 @@
+This is a list of features that are planned to be ported, some of them are requested by users:
+
+
+-App Sidebar
+
+https://github.com/cristianomatos/android_frameworks_base/commit/762c03e3b05923c18836d71051712850b874d534
+
+https://github.com/cristianomatos/android_packages_apps_Settings/commit/2a724ac2da21f555dad34f419a0d7f25d03d2037
+
+
+-Quick Access Ribbon
+
+http://review.cyanogenmod.org/#/c/48874/
+
+http://review.cyanogenmod.org/#/c/48490/
+
+
+-MIUI-like Traffic indicator
+
+https://github.com/CarbonDev/android_frameworks_base/commit/c061bc90cfd287e6119ab49d4d6467be9d2676a0
+
+https://github.com/CarbonDev/android_packages_apps_CarbonFibers/commit/14cd86f14094fc4592fcf8461088d241b6f85cca
+
+
+-Battery level around unlock ring
+
+https://github.com/CarbonDev/android_frameworks_base/commit/56227e7dd2a40f94f3d622327be5668edf4eeaa2
+
+https://github.com/CarbonDev/android_packages_apps_CarbonFibers/commit/cbc507915f73a06fc7b104ac22333c969b516d65
+
+
+-Policy: implement a pin keypad shuffler
+
+https://github.com/temasek/android_frameworks_base/commit/f2f87d4ee7be7db7c0bcb00b738e89449a1cee0d
+
+https://github.com/temasek/android_packages_apps_Settings/commit/0925681bdf20d4379d126f5ae7d2e1595d2e5e50
+
+
+-Support for adb over network
+
+https://gerrit.omnirom.org/#/c/1138/
+
+https://gerrit.omnirom.org/#/c/1139/
+
+https://gerrit.omnirom.org/#/c/1441/
+
+
