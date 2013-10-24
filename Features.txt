@@ -45,3 +45,8 @@ https://gerrit.omnirom.org/#/c/1139/
 https://gerrit.omnirom.org/#/c/1441/
 
 
+-CM Like SMS Notification (Reply, Read, Delete Option)
+
+I didn't find a commit for that, just that it should be implemented somewhere in this file:
+https://github.com/CyanogenMod/android_packages_apps_Mms/blob/cm-10.2/src/com/android/mms/transaction/MessagingNotification.java
+Maybe we should just try to replace PA Mms-App with the CM one? That would add blacklist sms feature as well...
