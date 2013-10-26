@@ -1,13 +1,5 @@
 This is a list of features that are planned to be ported, some of them are requested by users:
 
-
--App Sidebar
-
-https://github.com/cristianomatos/android_frameworks_base/commit/762c03e3b05923c18836d71051712850b874d534
-
-https://github.com/cristianomatos/android_packages_apps_Settings/commit/2a724ac2da21f555dad34f419a0d7f25d03d2037
-
-
 -Quick Access Ribbon
 
 http://review.cyanogenmod.org/#/c/48874/
