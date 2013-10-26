@@ -36,15 +36,6 @@ https://github.com/temasek/android_frameworks_base/commit/f2f87d4ee7be7db7c0bcb0
 https://github.com/temasek/android_packages_apps_Settings/commit/0925681bdf20d4379d126f5ae7d2e1595d2e5e50
 
 
--Support for adb over network
-
-https://gerrit.omnirom.org/#/c/1138/
-
-https://gerrit.omnirom.org/#/c/1139/
-
-https://gerrit.omnirom.org/#/c/1441/
-
-
 -CM Like SMS Notification (Reply, Read, Delete Option)
 
 I didn't find a commit for that, just that it should be implemented somewhere in this file:
