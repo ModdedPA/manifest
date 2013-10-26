@@ -48,3 +48,29 @@ http://review.cyanogenmod.org/#/c/44620/
 http://review.chameleonos.org/#/c/2649/
 
 http://review.chameleonos.org/#/c/2650/
+
+-Gesture Anywhere: Add gesture anywhere feature from ChaOS
+
+>Github review:
+
+https://github.com/PAC-man/android_frameworks_base/commit/3d0e48ea46e07a4a669ec1c75bf9f207c928b559
+
+https://github.com/PAC-man/android_packages_apps_Settings/commit/bca4c8490289968671a307d53f357b507bf42c11
+
+might be this one too.
+
+https://github.com/PAC-man/android_frameworks_base/commit/7cf03d7247c3640614b5afc8fa90746c7d47cf09
+
+>Gerrit review:
+
+http://review.pac-rom.com/#/c/2907/
+
+http://review.pac-rom.com/#/c/2908/
+
+http://review.pac-rom.com/#/c/2909/
+
+
+
+
+
+
