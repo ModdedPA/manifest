@@ -145,7 +145,7 @@
   <project path="external/iproute2" name="platform/external/iproute2" groups="pdk" />
   <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
   <project path="external/iptables" name="platform/external/iptables" />
-  <project path="external/iputils" name="platform/external/iputils" />
+  <project path="external/iputils" name="android_external_iputils" remote="moddedpa" revision="kitkat" />
   <project path="external/jack" name="platform/external/jack" />
   <project path="external/javasqlite" name="platform/external/javasqlite" />
   <project path="external/javassist" name="platform/external/javassist" />
@@ -290,9 +290,9 @@
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" />
-  <project path="hardware/qcom/display" name="platform/hardware/qcom/display" groups="qcom" />
+  <project path="hardware/qcom/display" name="android_hardware_qcom_display" groups="qcom" remote="moddedpa" revision="kitkat" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom" />
-  <project path="hardware/qcom/media" name="platform/hardware/qcom/media" groups="qcom" />
+  <project path="hardware/qcom/media" name="android_hardware_qcom_media" groups="qcom" remote="moddedpa" revision="kitkat" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" />
   <project path="hardware/qcom/power" name="platform/hardware/qcom/power" groups="qcom" />
