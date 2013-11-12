@@ -1,0 +1,87 @@
+This is a text file of a list of features that will be ported in this ROM soon, some of them will be ported later. Probably once AOSPA 4.0 is officially released.  
+
+-Alternate default app picker
+
+https://github.com/temasek/android_packages_apps_Settings/commit/40c81916536cbd400bae8d4744bb48d6cb008eb2
+https://github.com/temasek/android_frameworks_base/commit/d95e6ec373c7a6321815fb6f83d13d5c719f875d
+
+
+-Option to enable Notification Light when screen is on
+
+https://github.com/temasek/android_frameworks_base/commit/087bf287cd64fd5d07bffdd6e9ff0bdd718e2547
+https://github.com/temasek/android_packages_apps_Settings/commit/cbb523cf6b6979cf64f56c07d7cebdd09b1d09a2
+
+
+-Customizable Low battery pop-up warning
+
+https://github.com/temasek/android_packages_apps_Settings/commit/dab9c09a1f6c1e24a7e122e85d8006d3514bac13
+https://github.com/temasek/android_frameworks_base/commit/25f756ed173265840e4a1411960104a5302beb5a
+
+Or from SlimRoms:
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/0e1d700ca34575c9335c23c61131fd0009a8d1ea
+https://github.com/SlimRoms/frameworks_base/commit/99728db94cef3186ce64064502ea6b004105d6af
+
+
+-Notification drawer custom background & notification rows transparency
+
+https://github.com/temasek/android_frameworks_base/commit/4fdaafbff3c246c0f0331d41ae5beeb042073e08
+https://github.com/temasek/android_packages_apps_Settings/commit/43902d303ff9e8bc445a303666e6464be8738a2e
+
+
+-Add network usage stats to status bar
+
+https://github.com/temasek/android_frameworks_base/commit/d6114bd0635b9b13e14d0f11d89ba94ba9268c52
+https://github.com/temasek/android_packages_apps_Settings/commit/2c7fdfe271d977a6d004cbdbe3c6753fa1ecf0f4
+
+Additional commit: 
+
+https://github.com/temasek/android_frameworks_base/commit/b53d015e844e2c5338fd77111983dd4ea4ae8dc0
+
+
+-Network stats custom colors
+
+https://github.com/temasek/android_frameworks_base/commit/34fd2d937f6a56ddb73f798f9c0f3f79570ddb60
+https://github.com/temasek/android_packages_apps_Settings/commit/926bc4321e6871e13c23533550838f4ad7e05b52
+
+
+-Network stats: Hide if there's no traffic
+
+https://github.com/temasek/android_frameworks_base/commit/f39d0c9754e7c81981e3e880381d09ccebf170e4
+https://github.com/temasek/android_packages_apps_Settings/commit/2ca0c6677737365e4058e85386e3d3a31d820909
+
+
+-Privacy Guard Slim version
+
+https://github.com/SlimRoms/frameworks_base/commit/cee1ad42db95ba1ecc1a3f589ed4d69fdc6c947e
+https://github.com/SlimRoms/packages_apps_Settings/commit/20ba27afd7f42b7596ed05ea9dd27c5a2bcc80a3
+
+Additional commit:
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/3b4adee76a20a70ab3ea02982f4cb2a61b446b48
+https://github.com/SlimRoms/packages_apps_Settings/commit/73d71e1f45417ccfdd4f0de5b71b58be8de790cc
+https://github.com/SlimRoms/frameworks_base/commit/b5715ea6f0823aefbf9a1ecf025aa9d61914a3f2
+
+
+-volume tweaks
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/0ac58c161dd85259954696bfda8950d4056fd3d7
+https://github.com/SlimRoms/packages_apps_Settings/commit/0ac58c161dd85259954696bfda8950d4056fd3d7
+
+
+-Increasing rings
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/bc1ddb48462005cb5f76c9b9940e7ef1d7e57cb9
+https://github.com/SlimRoms/frameworks_base/commit/164d6df9d2f60b922236801bd3736ef584802252
+
+
+-AOKP custom system animations
+
+https://github.com/ModdedPA/android_packages_apps_Settings/commit/14ef9b1358a79b146cf570c89a667634f3b0826d
+https://github.com/ModdedPA/android_frameworks_base/commit/723695958fccf057c27283d38f7e3c3132666f3e
+
+
+-Configurable Notification Behavior
+
+https://github.com/ModdedPA/android_frameworks_base/commit/d860f64dd7c3fd3214b94c1e8b4f40c0b5151605
+https://github.com/ModdedPA/android_packages_apps_Settings/commit/dbdd6bb1e29901127a5e995114988fd7ec441972
