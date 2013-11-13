@@ -85,3 +85,14 @@ https://github.com/ModdedPA/android_frameworks_base/commit/723695958fccf057c2728
 
 https://github.com/ModdedPA/android_frameworks_base/commit/d860f64dd7c3fd3214b94c1e8b4f40c0b5151605
 https://github.com/ModdedPA/android_packages_apps_Settings/commit/dbdd6bb1e29901127a5e995114988fd7ec441972
+
+
+-Power connect/disconnect notification support 
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/29801f6f795ee190736d0cb0d4e70162a7826908
+https://github.com/SlimRoms/frameworks_base/commit/ce96942318aae7e5f3d53bc2be6c3e32e27489f0
+
+
+-[WIP] Multi Window
+
+https://gerrit.omnirom.org/#/c/1510/
