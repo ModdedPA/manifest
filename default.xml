@@ -22,7 +22,7 @@
   <remote  name="moddedpa"
            fetch="git://github.com/ModdedPA/" />
 
-  <default revision="kitkat-release"
+  <default revision="refs/tags/android-4.4_r1.1"
            remote="aosp"
            sync-c="true"
            sync-f="true"
