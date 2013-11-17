@@ -69,12 +69,6 @@ https://github.com/SlimRoms/packages_apps_Settings/commit/0ac58c161dd85259954696
 https://github.com/SlimRoms/packages_apps_Settings/commit/0ac58c161dd85259954696bfda8950d4056fd3d7
 
 
--Increasing rings
-
-https://github.com/SlimRoms/packages_apps_Settings/commit/bc1ddb48462005cb5f76c9b9940e7ef1d7e57cb9
-https://github.com/SlimRoms/frameworks_base/commit/164d6df9d2f60b922236801bd3736ef584802252
-
-
 -AOKP custom system animations
 
 https://github.com/ModdedPA/android_packages_apps_Settings/commit/14ef9b1358a79b146cf570c89a667634f3b0826d
