@@ -69,12 +69,6 @@ https://github.com/SlimRoms/packages_apps_Settings/commit/0ac58c161dd85259954696
 https://github.com/SlimRoms/packages_apps_Settings/commit/0ac58c161dd85259954696bfda8950d4056fd3d7
 
 
--Increasing rings
-
-https://github.com/SlimRoms/packages_apps_Settings/commit/bc1ddb48462005cb5f76c9b9940e7ef1d7e57cb9
-https://github.com/SlimRoms/frameworks_base/commit/164d6df9d2f60b922236801bd3736ef584802252
-
-
 -AOKP custom system animations
 
 https://github.com/ModdedPA/android_packages_apps_Settings/commit/14ef9b1358a79b146cf570c89a667634f3b0826d
@@ -85,3 +79,33 @@ https://github.com/ModdedPA/android_frameworks_base/commit/723695958fccf057c2728
 
 https://github.com/ModdedPA/android_frameworks_base/commit/d860f64dd7c3fd3214b94c1e8b4f40c0b5151605
 https://github.com/ModdedPA/android_packages_apps_Settings/commit/dbdd6bb1e29901127a5e995114988fd7ec441972
+
+
+-Power connect/disconnect notification support 
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/29801f6f795ee190736d0cb0d4e70162a7826908
+https://github.com/SlimRoms/frameworks_base/commit/ce96942318aae7e5f3d53bc2be6c3e32e27489f0
+
+
+-[WIP] Multi Window
+
+https://gerrit.omnirom.org/#/c/1510/
+
+
+-Navigation ring customization
+
+https://github.com/CyanogenMod/android_frameworks_base/commit/2f106cd01c5c65a89fe8133e793fd4343dbc4685
+
+Needed commit: https://github.com/CyanogenMod/android_frameworks_base/commit/67e1fc53605108d437879c628c37e7764cb0868c
+
+
+-Recents RAM bar
+
+https://github.com/ModdedPA/android_frameworks_base/commit/5709e87a43f5e9c419d531b793c19fdbb627dcf4
+https://github.com/ModdedPA/android_frameworks_base/commit/1e2ef92f9d7d143075cbf78d15dcae2ce0fd59ab
+https://github.com/ModdedPA/android_frameworks_base/commit/418ab8bae6952c4f020d71caf0cf5bc9f1dd6600
+https://github.com/ModdedPA/android_frameworks_base/commit/bb1f7e6a39be17ef180de84b6f982363e2a752ef
+https://github.com/ModdedPA/android_frameworks_base/commit/8426b9a93943e96f335594d097de628759e3ca7c
+
+https://github.com/ModdedPA/android_packages_apps_Settings/commit/f801a87886ff135a51c0b5f14054a09efd9bf7ae
+https://github.com/ModdedPA/android_packages_apps_Settings/commit/4361935f8ee8bd9a88d541708851477b3f9d0224
