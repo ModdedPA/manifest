@@ -109,3 +109,10 @@ https://github.com/ModdedPA/android_frameworks_base/commit/8426b9a93943e96f33559
 
 https://github.com/ModdedPA/android_packages_apps_Settings/commit/f801a87886ff135a51c0b5f14054a09efd9bf7ae
 https://github.com/ModdedPA/android_packages_apps_Settings/commit/4361935f8ee8bd9a88d541708851477b3f9d0224
+
+
+-Media Scanner behaviour on boot
+
+https://github.com/SlimRoms/packages_apps_Settings/commit/15a076d5033f1b6cc3ec7fe3a534cc14d7392ac0
+https://github.com/SlimRoms/packages_providers_MediaProvider/commit/f5ccf8e7f688b3f0e4cd1acc1d5ee3af6d71b390
+https://github.com/SlimRoms/frameworks_base/commit/012f0dfedd95e5505374777b39ccf1d39c7bed51
