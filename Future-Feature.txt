@@ -1,10 +1,5 @@
 This is a text file of a list of features that will be ported in this ROM soon, some of them will be ported later. Probably once AOSPA 4.0 is officially released.  
 
--Alternate default app picker
-
-https://github.com/temasek/android_packages_apps_Settings/commit/40c81916536cbd400bae8d4744bb48d6cb008eb2
-https://github.com/temasek/android_frameworks_base/commit/d95e6ec373c7a6321815fb6f83d13d5c719f875d
-
 
 -Option to enable Notification Light when screen is on
 
@@ -21,12 +16,6 @@ Or from SlimRoms:
 
 https://github.com/SlimRoms/packages_apps_Settings/commit/0e1d700ca34575c9335c23c61131fd0009a8d1ea
 https://github.com/SlimRoms/frameworks_base/commit/99728db94cef3186ce64064502ea6b004105d6af
-
-
--Notification drawer custom background & notification rows transparency
-
-https://github.com/temasek/android_frameworks_base/commit/4fdaafbff3c246c0f0331d41ae5beeb042073e08
-https://github.com/temasek/android_packages_apps_Settings/commit/43902d303ff9e8bc445a303666e6464be8738a2e
 
 
 -Add network usage stats to status bar
