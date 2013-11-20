@@ -81,13 +81,6 @@ https://github.com/SlimRoms/frameworks_base/commit/ce96942318aae7e5f3d53bc2be6c3
 https://gerrit.omnirom.org/#/c/1510/
 
 
--Navigation ring customization
-
-https://github.com/CyanogenMod/android_frameworks_base/commit/2f106cd01c5c65a89fe8133e793fd4343dbc4685
-
-Needed commit: https://github.com/CyanogenMod/android_frameworks_base/commit/67e1fc53605108d437879c628c37e7764cb0868c
-
-
 -Recents RAM bar
 
 https://github.com/ModdedPA/android_frameworks_base/commit/5709e87a43f5e9c419d531b793c19fdbb627dcf4
