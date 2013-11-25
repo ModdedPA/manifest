@@ -1,17 +1,5 @@
 This is a text file of a list of features that will be ported in this ROM soon, some of them will be ported later. Probably once AOSPA 4.0 is officially released.  
 
-
--Customizable Low battery pop-up warning
-
-https://github.com/temasek/android_packages_apps_Settings/commit/dab9c09a1f6c1e24a7e122e85d8006d3514bac13
-https://github.com/temasek/android_frameworks_base/commit/25f756ed173265840e4a1411960104a5302beb5a
-
-Or from SlimRoms:
-
-https://github.com/SlimRoms/packages_apps_Settings/commit/0e1d700ca34575c9335c23c61131fd0009a8d1ea
-https://github.com/SlimRoms/frameworks_base/commit/99728db94cef3186ce64064502ea6b004105d6af
-
-
 -Add network usage stats to status bar
 
 https://github.com/temasek/android_frameworks_base/commit/d6114bd0635b9b13e14d0f11d89ba94ba9268c52
@@ -32,12 +20,6 @@ https://github.com/temasek/android_packages_apps_Settings/commit/926bc4321e6871e
 
 https://github.com/temasek/android_frameworks_base/commit/f39d0c9754e7c81981e3e880381d09ccebf170e4
 https://github.com/temasek/android_packages_apps_Settings/commit/2ca0c6677737365e4058e85386e3d3a31d820909
-
-
--Privacy Guard Slim version
-
-https://github.com/SlimRoms/frameworks_base/commit/cee1ad42db95ba1ecc1a3f589ed4d69fdc6c947e
-https://github.com/SlimRoms/packages_apps_Settings/commit/20ba27afd7f42b7596ed05ea9dd27c5a2bcc80a3
 
 Additional commit:
 
@@ -63,7 +45,11 @@ https://github.com/ModdedPA/android_frameworks_base/commit/723695958fccf057c2728
 https://gerrit.omnirom.org/#/c/1510/
 
 
--add Battery Styles the new way 1/2
+-Quiet Hours:
+https://github.com/SlimRoms/packages_apps_Settings/commit/afe86b034871520e8e3ba9ce41529bee6601a384
+https://github.com/SlimRoms/frameworks_base/commit/b5d81d2f0079ed79e50c04615707c8b1619b9d8d
 
-https://github.com/SlimRoms/frameworks_base/commit/09052553399741defd000b8886e39bc8beb9afd7
-https://github.com/SlimRoms/packages_apps_Settings/commit/6aab303a439b7d84a3014428abdb2f38e1d1f46d
+
+-Configurable 0, 90, 180 and 270 degree rotation 
+https://github.com/SlimRoms/frameworks_base/commit/146390f40b8d3f3ee7df94925d2dc5f376e7478b
+https://github.com/SlimRoms/packages_apps_Settings/commit/6322dfe6e9feef30068860193c550a884189ec74
